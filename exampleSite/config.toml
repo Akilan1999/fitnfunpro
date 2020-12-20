@@ -1,13 +1,13 @@
 ######################### default configuration ###############################
-baseURL = "http://examplesite.com"
-title = "Biztrox"
+baseURL = "fitnfunpro.netlify.app"
+title = "Fitnfunpro"
 theme = "biztrox-hugo"
 # post pagination
 paginate = "6"
 # post excerpt
 summaryLength = "10"
 # disqus short name
-disqusShortname = "biztrox" # get your shortname form here : https://disqus.com
+disqusShortname = "fitnfunpro" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = [] # desable language from here
 
@@ -164,7 +164,7 @@ icon = "ti-map-alt"
 
 ############################ google map #####################################
 [params.gmap]
-enable = true
+enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
