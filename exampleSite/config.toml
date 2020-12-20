@@ -236,16 +236,16 @@ link = "#"
 
 
 
-################################ Franch language ################################
+################################ German language ################################
   [Languages.ger]
-  languageName = "GER"
+  languageName = "ger"
   languageCode = "ger-ger"
   contentDir = "content/german"
   weight = 2
   home = "Accueil"
 
   # footer
-  [Languages.fr.params.footer]
+  [Languages.ger.params.footer]
   content = "Lorem ipsum dolor amet consectetur adipisicing elit sed eiusm tempor incididunt labore dolore magna aliqua enim."
 
   # subscribe
