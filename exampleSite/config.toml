@@ -237,10 +237,10 @@ link = "#"
 
 
 ################################ Franch language ################################
-  [Languages.fr]
-  languageName = "Fr"
-  languageCode = "fr-fr"
-  contentDir = "content/french"
+  [Languages.ger]
+  languageName = "GER"
+  languageCode = "ger-ger"
+  contentDir = "content/german"
   weight = 2
   home = "Accueil"
 
