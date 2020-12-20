@@ -1,5 +1,5 @@
 ######################### default configuration ###############################
-baseURL = "fitnfunpro.netlify.app"
+baseURL = "https://fitnfunpro.netlify.app"
 title = "Fitnfunpro"
 theme = "biztrox-hugo"
 # post pagination
