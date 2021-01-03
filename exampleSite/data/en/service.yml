@@ -15,4 +15,4 @@ satisfied_clients:
   - images/client-logo/client-logo-5-white.png
   - images/client-logo/client-logo-3-white.png
 testimonial:
-  enable: true
+  enable: false
