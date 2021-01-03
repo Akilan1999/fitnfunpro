@@ -1,5 +1,5 @@
 ---
-title: New Hugo Post
+title: 'Covid Health Guidelines '
 bg_image: ''
 date: 2018-09-23T11:35:34.000+06:00
 description: 'Covid Health Guidelines '
