@@ -1,21 +1,54 @@
 ---
-title: "New Hugo Post"
-bg_image: images/background/page-title.jpg
-date: 2018-09-23T11:35:34+06:00
-description : "This is meta description"
-author: Mark Dinn
-image: images/blog/blog-1.jpg
-categories: ["Investment"]
-tags: ["Business","Marketing","Revenue"]
+title: 'Covid Health Guidelines '
+bg_image: ''
+date: 2018-09-23T11:35:34.000+06:00
+description: 'Covid Health Guidelines '
+author: Katja M
+image: ''
+categories:
+- Covid19
+tags: []
 type: post
+
 ---
+**We are trying our best to keep all advise up to date, but rules keep on changing and different countries have different regulation. Please do check in your country and with your airline for details.**
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex. Commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.
+Traveling to Dubai 1. Ensure you meet entry visa requirements to visit the UAE. can check if you need a visa here.
 
->Excepteur sint occaecat cupidatat non proident sunt culpa officia deserunt mollit anim id est laborum.Sed ut perspiciatis unde omnis.
+2\. All passengers arriving in Dubai must take a polymerase chain reaction (PCR) test up to four days prior to their date of travel (maximum 96 hours). The Negative PCR COVID-19 certificate must be printed in English or Arabic. No hand written, SMS or digital certificates will be accepted. You may be required to take another test at Dubai Airports upon arrival.
 
-1. Business Services
-2. Audit & Assurance
-3. IT Control Solutions
+3\. Children under the age of 12 and passengers with a severe or moderate disability are exempt from the PCR test.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex. Commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.
+4\. Ensure you have medical travel insurance with international coverage that covers COVID-19 before travelling. You will need to sign a declaration to bear all costs of quarantine and treatment and complete a Health Declaration Form before departure confirming you are not displaying COVID-19 symptoms.
+
+5\. If you are travelling with Emirates airline, you will automatically receive free global cover for COVID-19 health expenses and quarantine costs valid through to 31 December 2020. Please click here for further details.
+
+**At the Hotel:**
+
+Some of the protective measure which are rigorously implemented:
+
+· Available masks upon arrival and during your stay
+
+· Regular temperature checks
+
+· Regular available sanitizers at all touch points
+
+· All public areas are fogged one to 3 times per day depending on footfall
+
+· At all dining outlets tables are spaced to maintain distancing and are set up with sanitizer and pocket-sized packets of sanitizing wipes
+
+· Rooms undergo full fogging before your arrival and pillows and blankets undergo a thermal hygiene process
+
+During Tennis sessions:
+
+We follow guidelines by the Dubai Sports Council and International Tennis Federation to provide a safe and healthy environment.
+
+Some of these include:
+
+· Maintaining social distancing
+
+· Wearing masks when not playing or exercising
+
+· Provision of hand sanitizers
+
+· Regular cleaning and sanitizing of the facilities
