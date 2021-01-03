@@ -1,20 +1,17 @@
 ---
 title: New Hugo Post
-bg_image: images/background/page-title.jpg
+bg_image: ''
 date: 2018-09-23T11:35:34.000+06:00
-description: This is meta description
-author: Mark Dinn
-image: images/blog/blog-1.jpg
+description: 'Covid Health Guidelines '
+author: Katja M
+image: ''
 categories:
-- Investment
-tags:
-- Business
-- Marketing
-- Revenue
+- Covid19
+tags: []
 type: post
 
 ---
-We are trying our best to keep all advise up to date, but rules keep on changing and different countries have different regulation. Please do check in your country and with your airline for details.
+**We are trying our best to keep all advise up to date, but rules keep on changing and different countries have different regulation. Please do check in your country and with your airline for details.**
 
 Traveling to Dubai 1. Ensure you meet entry visa requirements to visit the UAE. can check if you need a visa here.
 
@@ -26,7 +23,7 @@ Traveling to Dubai 1. Ensure you meet entry visa requirements to visit the UAE. 
 
 5\. If you are travelling with Emirates airline, you will automatically receive free global cover for COVID-19 health expenses and quarantine costs valid through to 31 December 2020. Please click here for further details.
 
-At the Hotel:
+**At the Hotel:**
 
 Some of the protective measure which are rigorously implemented:
 
