@@ -76,12 +76,12 @@ skill:
       
 ########################################## project ####################################
 project:
-  enable : true
+  enable : false 
   # project item comes from "content/project" folder
 
 ########################################### Mission ###################################
 mission:
-  enable : true
+  enable : false
   subtitle : Our Goal
   title : Company Mission
   content : Lorem ipsum dolor sit amet consectetur adipisicing elit sed eiusmod tempor didunt laboris nisi ut aliquip ex ea commodo consequat.
@@ -98,7 +98,7 @@ mission:
 
 ##################################### Promo video ####################################
 promo_video:
-  enable : true
+  enable : false 
   title : "We Are Alawys <br> Comited"
   bg_image : "images/background/promo-video.jpg"
   video_URL : "https://www.youtube.com/watch?v=jrkvirglgaQ"
@@ -106,7 +106,7 @@ promo_video:
 
 ##################################### call to action #################################
 testimonial:
-  enable : true
+  enable : false
   subtitle : Clients
   title : What client Say
   image : images/client.png
@@ -125,7 +125,7 @@ testimonial:
 
 ##################################### call to action #################################
 cta:
-  enable : true
+  enable : false
   bg_image : "images/background/cta.jpg"
   title : "Biztrox give the smart solution for your business"
   button:
@@ -140,5 +140,5 @@ blog:
   
 ################################ clints logo slider ################################
 clients_logo_slider:
-  enable : true
+  enable : false
   # clients logo comes from "config.toml" folder

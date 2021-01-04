@@ -39,7 +39,7 @@ Some of the protective measure which are rigorously implemented:
 
 · Rooms undergo full fogging before your arrival and pillows and blankets undergo a thermal hygiene process
 
-During Tennis sessions:
+**During Tennis sessions:**
 
 We follow guidelines by the Dubai Sports Council and International Tennis Federation to provide a safe and healthy environment.
 

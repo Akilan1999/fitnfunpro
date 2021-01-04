@@ -14,7 +14,7 @@ philosophy:
     and wins. "
   image: images/about/philosophy.jpg
 ceo:
-  enable: true
+  enable: false
   bg_image: images/about/ceo.jpg
   title: We are efficient to <br> make your business rise
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit sed eiusmod tempor
@@ -26,9 +26,9 @@ ceo:
   name: John Doe
   designation: CEO
 mission:
-  enable: true
+  enable: false
 funfacts:
-  enable: true
+  enable: false
   bg_image: images/background/cta.jpg
   counter:
   - title: Projects Done
@@ -44,4 +44,4 @@ funfacts:
     icon: ti-cup
     count: "130"
 skill:
-  enable: true
+  enable: false
