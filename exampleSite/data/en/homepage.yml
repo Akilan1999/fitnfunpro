@@ -16,7 +16,7 @@ slider:
 service:
   enable: true
 about:
-  enable: false
+  enable: true
   bg_image: images/background/about-bg.jpg
   title: Who We Are?
   content: Excepteur sint occaecat cupidatat non proident sunt culpa qui officia deserunt
@@ -33,7 +33,7 @@ about:
     label: Explore More
     link: about
 skill:
-  enable: true
+  enable: false
   subtitle: Our Skills
   title: Why Choose Us
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed eiusmod tempor
