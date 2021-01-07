@@ -16,7 +16,7 @@ slider:
 service:
   enable: true
 about:
-  enable: true
+  enable: false
   bg_image: images/background/about-bg.jpg
   title: Who We Are?
   content: Excepteur sint occaecat cupidatat non proident sunt culpa qui officia deserunt
