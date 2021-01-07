@@ -29,47 +29,59 @@ subscribe = "Subscribe Us"
 subscribe_content = "Lorem ipsum dolor sit amet, consect etur adipisicing. elit sed do eiusmod."
 [[menu.footer]]
 URL = "#"
-name = "Terms & Conditions"
-weight = 4
-[[menu.footer]]
-URL = "#"
-name = "Privacy Policy"
-weight = 3
+name = "Legal"
+weight = 1
 [[menu.footer]]
 URL = "#"
 name = "Sitemap"
 weight = 2
 [[menu.footer]]
 URL = "#"
-name = "Legal"
-weight = 1
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 5
-[[menu.main]]
-URL = "team"
-name = "Team"
+name = "Privacy Policy"
+weight = 3
+[[menu.footer]]
+URL = "#"
+name = "Terms & Conditions"
 weight = 4
 [[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 3
+URL = "about"
+name = "About"
+weight = 1
 [[menu.main]]
 URL = "service"
 name = "Service"
 weight = 2
 [[menu.main]]
-URL = "about"
-name = "About"
-weight = 1
+URL = "blog"
+name = "Blog"
+weight = 3
+[[menu.main]]
+URL = "team"
+name = "Team"
+weight = 4
+[[menu.main]]
+URL = "pricing"
+name = "Pricing"
+weight = 5
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 6
+[[menu.main]]
+hasChildren = true
+name = "Pages"
+weight = 7
+[[menu.main]]
+URL = "project"
+name = "Project"
+parent = "Pages"
 [params]
 author = "themefisher"
 contact_form_action = "#"
 description = "Airspace Hugo theme"
 google_analitycs_id = "Your ID"
-logo = "images/logo.png"
-logo_white = "images/logo-footer.png"
+logo = "images/fitnfunpro-resize.png"
+logo_white = "images/fitnfunpro-resize.png"
 mail = "contact@hwtech.club"
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074"
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
@@ -149,9 +161,6 @@ icon = "ti-facebook"
 link = "#"
 [[params.social]]
 icon = "ti-twitter-alt"
-link = "#"
-[[params.social]]
-icon = "ti-vimeo-alt"
 link = "#"
 [[params.social]]
 icon = "ti-linkedin"
