@@ -2,12 +2,11 @@
 slider:
   enable: true
   slider_Item:
-  - bg_image: images/banner/banner-1.jpg
+  - bg_image: /images/tennis-2100437_1920.jpg
     animation_from: left
-    subtitle: Tailor made Tennis programs for individuals and groups for up to 6 people
+    subtitle:
     title: Tennis
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor <br> incididunt ut labore et dolore magna aliqua.
+    content: Tailor made Tennis programs for individuals and groups for up to 6 people
     pagination_name: Tennis
     button:
       enable: false
