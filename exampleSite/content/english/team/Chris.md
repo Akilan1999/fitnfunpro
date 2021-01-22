@@ -66,6 +66,4 @@ information:
   #- icon : ti-linkedin
   #  link : "#"
 
-# type
-type : team
----
+
