@@ -11,38 +11,12 @@ home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
-[Languages.en.params.footer]
-content = "Lorem ipsum dolor amet consectetur adipisicing elit sed eiusm tempor incididunt labore dolore magna aliqua enim."
-copyright = "Copyright &copy; 2019 a hugo theme by [themefisher.com](https://themefisher.com)"
-subscribe = "Subscribe Us"
-subscribe_content = "Lorem ipsum dolor sit amet, consect etur adipisicing. elit sed do eiusmod."
 [Languages.ger]
 contentDir = "content/german"
 home = "Accueil"
 languageCode = "ger-ger"
 languageName = "ger"
 weight = 2
-[Languages.ger.params.footer]
-content = "Lorem ipsum dolor amet consectetur adipisicing elit sed eiusm tempor incididunt labore dolore magna aliqua enim."
-copyright = "Copyright &copy; 2019 a hugo theme by [themefisher.com](https://themefisher.com)"
-subscribe = "Subscribe Us"
-subscribe_content = "Lorem ipsum dolor sit amet, consect etur adipisicing. elit sed do eiusmod."
-[[menu.footer]]
-URL = "#"
-name = "Legal"
-weight = 1
-[[menu.footer]]
-URL = "#"
-name = "Sitemap"
-weight = 2
-[[menu.footer]]
-URL = "#"
-name = "Privacy Policy"
-weight = 3
-[[menu.footer]]
-URL = "#"
-name = "Terms & Conditions"
-weight = 4
 [[menu.main]]
 URL = "about"
 name = "About"
@@ -70,7 +44,7 @@ description = "Airspace Hugo theme"
 google_analitycs_id = "Your ID"
 logo = "images/fitnfunpro-resize1.png"
 logo_white = "images/fitnfunpro-resize1.png"
-mail = "contact@hwtech.club"
+mail = "info@fitnfunpro.com"
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074"
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
 mobile = "1234565523"
@@ -131,25 +105,19 @@ logo = "images/client-logo/client-logo-3.png"
 [[params.contacts]]
 icon = "ti-mobile"
 [[params.contacts.contact]]
-contact_item = "+88 0123 456 789"
+contact_item = "+971 50 688 7421"
 [[params.contacts.contact]]
 contact_item = "+88 987 654 3210"
 [[params.contacts]]
 icon = "ti-email"
 [[params.contacts.contact]]
-contact_item = "info@biztrox.com"
+contact_item = "info@fitnfunpro.com"
 [[params.contacts.contact]]
-contact_item = "biztrox@email.com"
+contact_item = "info@fitnfunpro.com"
 [[params.contacts]]
 icon = "ti-map-alt"
 [[params.contacts.contact]]
-contact_item = "24/B Garden Street. <br> Northambia, Weals, UK"
+contact_item = ""
 [[params.social]]
 icon = "ti-facebook"
-link = "#"
-[[params.social]]
-icon = "ti-twitter-alt"
-link = "#"
-[[params.social]]
-icon = "ti-linkedin"
 link = "#"

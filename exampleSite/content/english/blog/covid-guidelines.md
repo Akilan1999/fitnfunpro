@@ -1,7 +1,7 @@
 ---
 title: 'Covid Health Guidelines '
 bg_image: "/images/tennis-2100437_1920.jpg"
-date: 2018-09-23T11:35:34.000+06:00
+date: 2021-01-01T11:35:34.000+06:00
 description: 'Covid Health Guidelines '
 author: Katja M
 image: ''
