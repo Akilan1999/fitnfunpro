@@ -16,7 +16,8 @@ type : service
 
 ### 3 Day Program:
 
-During this program we will be working on two shots of your choice in an easy and understandable way. Our aim is to improve your game instantly through simple and uncomplicated changes which won’t take months or even years to implement. To make sure our team can start from minute one, you can send us 2 short videos before the program starts. This program is suitable for players of all levels.
+During this program we will be working on two shots of your choice in an easy and understandable way. Our aim is to improve your game instantly through simple and uncomplicated changes which won’t take
+ months or even years to implement. To make sure our team can start from minute one, you can send us 2 short videos before the program starts. This program is suitable for players of all levels.
 
 ### Included:
 
