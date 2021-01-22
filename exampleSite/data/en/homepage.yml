@@ -12,6 +12,16 @@ slider:
       enable: false
       label: More details
       link: about
+  - bg_image: /images/yoga.jpeg
+    animation_from: left
+    subtitle:
+    title:  Fitness/yoga
+    content: 
+    pagination_name:  Fitness/yoga
+    button:
+      enable: false
+      label: More details
+      link: about
 service:
   enable: true
 about:
