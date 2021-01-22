@@ -1,4 +1,4 @@
-baseURL = "https://fitnfunpro.netlify.app"
+baseURL = "https://fitnfunpro.com"
 disableLanguages = []
 disqusShortname = "fitnfunpro"
 paginate = "6"
@@ -106,12 +106,8 @@ logo = "images/client-logo/client-logo-3.png"
 icon = "ti-mobile"
 [[params.contacts.contact]]
 contact_item = "+971 50 688 7421"
-[[params.contacts.contact]]
-contact_item = "+88 987 654 3210"
 [[params.contacts]]
 icon = "ti-email"
-[[params.contacts.contact]]
-contact_item = "info@fitnfunpro.com"
 [[params.contacts.contact]]
 contact_item = "info@fitnfunpro.com"
 [[params.contacts]]
