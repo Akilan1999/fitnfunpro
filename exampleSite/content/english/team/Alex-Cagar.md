@@ -1,5 +1,5 @@
 ---
-title: "Alex Cagar"
+title: "Chris Wind"
 date: 2018-09-29T14:41:38+06:00
 description : "This is meta description"
 designation: CEO

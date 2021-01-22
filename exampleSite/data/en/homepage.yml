@@ -4,13 +4,13 @@ slider:
   slider_Item:
   - bg_image: images/banner/banner-1.jpg
     animation_from: left
-    subtitle: We are here to
-    title: Planning Business
+    subtitle: Tailor made Tennis programs for individuals and groups for up to 6 people
+    title: Tennis
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor <br> incididunt ut labore et dolore magna aliqua.
-    pagination_name: Consultation
+    pagination_name: Tennis
     button:
-      enable: true
+      enable: false
       label: More details
       link: about
 service:
