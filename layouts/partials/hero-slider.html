@@ -16,7 +16,7 @@
 								{{ .subtitle | markdownify }}</h4>
 							<h1 class="font-weight-bold mb-3" data-duration-in=".5" data-animation-in="fadeIn{{.animation_from | humanize}}" style="color:antiquewhite" ata-delay-in=".4">
 								{{ .title | markdownify }}</h1>
-							<p class="text-dark mb-50" data-duration-in=".5" data-animation-in="fadeIn{{.animation_from | humanize}}" style="color:antiquewhite" data-delay-in=".7">
+							<p class="mb-50" data-duration-in=".5" data-animation-in="fadeIn{{.animation_from | humanize}}" style="color:antiquewhite" data-delay-in=".7">
 								{{ .content | markdownify }}
 							</p>
 							{{ if .button.enable }}
