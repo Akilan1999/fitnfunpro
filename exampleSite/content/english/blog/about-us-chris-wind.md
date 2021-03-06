@@ -2,7 +2,7 @@
 author = ""
 bg_image = "/images/chris-stadium.jpg"
 categories = []
-date = ""
+date = 2021-03-05T20:00:00Z
 description = ""
 draft = true
 image = ""
