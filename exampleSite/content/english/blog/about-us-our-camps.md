@@ -4,7 +4,6 @@ bg_image = "/images/stockimages/tennis-sports-ball-game-tennis-player-play-tenni
 categories = []
 date = 2021-03-05T20:00:00Z
 description = ""
-draft = true
 image = "/images/stockimages/tennis-2100437_1920.jpg"
 tags = []
 title = "About us - our camps"
