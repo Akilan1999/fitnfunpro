@@ -11,7 +11,7 @@ brochure: "#"
 ### 3 Day Program:
 
 During this program we will be working on two shots of your choice in an easy and understandable way. Our aim is to improve your game instantly through simple and uncomplicated changes which won’t take
- months or even years to implement. To make sure our team can start from minute one, you can send us 2 short videos before the program starts. This program is suitable for players of all levels.
+months or even years to implement. To make sure our team can start from minute one, you can send us 2 short videos before the program starts. This program is suitable for players of all levels.
 
 ### Included:
 
@@ -19,8 +19,10 @@ Preprogram video analysis and strategy session
 
 Groups: Minimum 2 to maximum 4 players per group
 
-Training: 3 Days of 90 minutes tennis each in the morning 
+Training: 3 Days of 90 minutes tennis each in the morning
 
-### Optional:
+### Optional Afternoon program:
 
-afternoon program with supervised match play and tactical session
+**3 day tactical and strategical program:**
+
+Implementation of the newly learned techniques while hitting with others including practical match play situations under the guidance of your coach. Simplicity is here the key to better results. Suitable for club players who participate in leagues and tournaments.
