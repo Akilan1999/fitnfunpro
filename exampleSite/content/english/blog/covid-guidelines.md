@@ -4,7 +4,7 @@ bg_image: "/images/tennis-2100437_1920.jpg"
 date: 2021-01-01T11:35:34.000+06:00
 description: 'Covid Health Guidelines '
 author: Katja M
-image: "/images/meme-de-novac-djokovic.jpeg"
+image: "/images/fitnfunpro-resize-1.png"
 categories:
 - Covid19
 tags: []
